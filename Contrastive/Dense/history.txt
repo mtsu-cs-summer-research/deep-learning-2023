@@ -1,0 +1,5 @@
+Epochs: 218
+Loss: 1.8734550476074219
+Validation Loss: 0.7996711730957031
+Contrastive Accuracy: 48.54498207569122%
+Validation Contrastive Accuracy: 48.588648438453674%
